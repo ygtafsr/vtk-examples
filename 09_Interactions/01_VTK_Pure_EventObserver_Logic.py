@@ -3,7 +3,7 @@
 import vtkmodules.vtkInteractionStyle
 import vtkmodules.vtkRenderingOpenGL2
 
-from ZZ_Data.grid_three_hex import grid
+from Data.grid_three_hex import grid
 
 from vtkmodules.vtkRenderingCore import (
     vtkActor,

@@ -31,7 +31,7 @@ from vtkmodules.vtkRenderingCore import (
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from ZZ_Data.grid_three_quad import grid
+from Data.grid_three_quad import grid
 # -----------------
 
 # -------------------------

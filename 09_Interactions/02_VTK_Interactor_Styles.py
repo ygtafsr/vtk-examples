@@ -62,7 +62,7 @@ from vtkmodules.vtkInteractionStyle import (
     vtkInteractorStyleTrackballCamera,
 )
 
-from ZZ_Data.grid_three_hex import grid
+from Data.grid_three_hex import grid
 
 
 # -------------------------

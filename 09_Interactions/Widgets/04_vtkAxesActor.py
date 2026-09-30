@@ -28,7 +28,7 @@ from vtkmodules.vtkRenderingAnnotation import vtkAxesActor
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
-from ZZ_Data.grid_three_hex import grid
+from Data.grid_three_hex import grid
 # -----------------
 
 mapper = vtkDataSetMapper(input_data=grid())

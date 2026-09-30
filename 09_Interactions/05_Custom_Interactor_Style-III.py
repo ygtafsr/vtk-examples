@@ -43,7 +43,7 @@ from vtkmodules.vtkInteractionStyle import (
 
 from vtkmodules.vtkCommonColor import vtkNamedColors
 
-from ZZ_Data.grid_three_hex import grid
+from Data.grid_three_hex import grid
 
 
 
